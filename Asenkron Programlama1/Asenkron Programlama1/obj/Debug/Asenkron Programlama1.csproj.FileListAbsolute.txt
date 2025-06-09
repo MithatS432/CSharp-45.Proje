@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\Asenkron Programlama1\Asenkron Programlama1\bin\Debug\Asenkron Programlama1.exe.config
+C:\Users\mitha\source\repos\Asenkron Programlama1\Asenkron Programlama1\bin\Debug\Asenkron Programlama1.exe
+C:\Users\mitha\source\repos\Asenkron Programlama1\Asenkron Programlama1\bin\Debug\Asenkron Programlama1.pdb
+C:\Users\mitha\source\repos\Asenkron Programlama1\Asenkron Programlama1\obj\Debug\Asenkron Programlama1.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Asenkron Programlama1\Asenkron Programlama1\obj\Debug\Asenkron Programlama1.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Asenkron Programlama1\Asenkron Programlama1\obj\Debug\Asenkron Programlama1.exe
+C:\Users\mitha\source\repos\Asenkron Programlama1\Asenkron Programlama1\obj\Debug\Asenkron Programlama1.pdb
